@@ -1,32 +1,58 @@
-## Hi there 👋
+# Hi there 👋 I'm Pratyush Jha
 
-I'm **Pratyush Jha**, an AI Research Engineer at **Ola Krutrim** with a B.Tech in Engineering Physics from IIT Roorkee.  
-My interests include **model interpretability**, **LLM reasoning**, **Reinforcement Learning**, and **Natural Language Understanding**. I focus on building transparent and reliable AI systems.
+**AI Research Engineer @ Ola Krutrim · B.Tech (Engineering Physics), IIT Roorkee (2024)**
 
-### 🌐 Research Highlights
-- **AI Research Engineer @ Ola Krutrim (2024–Present):**   
-  Worked on improving LLM reasoning and reducing hallucinations using preference optimization techniques, while also building scalable AI systems and services—from model deployment pipelines to real‑time analytics and developer SDKs.
-    
-- **B.Tech Thesis (2023–24):**  
-  Explored deep learning-based approaches to simulate phase diagrams in condensed matter physics. Compared fine-tuning and transfer learning strategies to improve model generalization and interpretability.
+Working on the **intersection of AI and Physics** is especially exciting to me — I enjoy using mathematical insight to design better models and to connect theoretical ideas with practical systems. I currently explore **diffusion models for condensed-matter physics simulations**, and I spend a lot of time reading and thinking about the **mathematical structures that inspire reasoning in LLMs**.
 
-- **MITACS Globalink Intern @ McGill University (Summer 2023):**  
-  Modeled CR‑39 neutron detectors with TOPAS-based Monte Carlo simulations to study detector response to high-energy and thermal neutrons.  
-  🔗 [Lab Profile](https://kildealab.com/author/pratyush-jha/)
+---
 
-### 🔍 Research Themes
-- Model interpretability and explainability in LLMs  
-- Reinforcement Learning for alignment and optimization  
-- Reliable and transparent Natural Language Understanding
+## 🔎 Quick summary
+- **Role:** AI Research Engineer, Ola Krutrim (2024–Present)  
+- **Background:** B.Tech in Engineering Physics, IIT Roorkee (2024)  
+- **Core interests:** model interpretability, LLM reasoning, reinforcement learning for alignment and reasoning, and physics-inspired generative modeling  
+- **Current focus:** diffusion models for condensed-matter simulations; theoretical study of reasoning in LLMs; preference tuning and hallucination mitigation
 
-### 🧪 Technical Projects & Tools
-- Preference tuning and reasoning alignment experiments  
-- End-to-end AI pipelines for data preparation, training, and deployment  
-- **Tech stack:** Python, C++, Hugging Face, FastAPI, Flask, Docker, Redis, NVIDIA DeepStream, GPU-accelerated inference
+---
 
-### 🎯 Research Motivation
-I aim to design AI systems that reason transparently and are aligned with real-world constraints.
+## 🌐 Research highlights
+- **AI Research Engineer · Ola Krutrim (2024–Present)**  
+  Improving LLM reasoning and reducing hallucinations using preference-based optimization and alignment techniques. Building scalable AI systems, deployment pipelines, and GPU-accelerated inference stacks.
 
-### 📫 Connect with me:
-- EMail: [Pratyush Jha - Email](pratyushjha254@gmail.com)  
-- LinkedIn: [Pratyush Jha](https://www.linkedin.com/in/pratyush-jha-a93417213/)
+- **B.Tech Thesis · IIT Roorkee (2023–24)**  
+  Investigated deep-learning approaches for phase diagrams in condensed matter physics; compared fine-tuning vs. transfer learning for improved generalization and interpretability.
+
+- **MITACS Globalink Intern · McGill University (Summer 2023)**  
+  Modeled **CR-39 neutron detectors** using TOPAS Monte Carlo simulations; studied detector response to high-energy and thermal neutrons.  
+  🔗 [Lab profile](https://kildealab.com/author/pratyush-jha/)
+
+---
+
+## 🔍 Research themes
+- **Improving intuition in LLMs** using Reinforcement learning  
+- **Reinforcement Learning for reasoning alignment** and preference tuning  
+- **Physics-inspired generative modeling** — diffusion models for condensed-matter systems
+
+---
+
+## 🧪 Projects & technical skills
+- Preference tuning, reasoning alignment experiments, and evaluation frameworks  
+- End-to-end AI pipelines: data preparation, training, deployment, real-time analytics  
+- Production & research tooling: Python, C++, Hugging Face, FastAPI, Flask, Docker, Redis, NVIDIA DeepStream
+
+---
+
+## 🔭 Current focus (short)
+1. Developing diffusion-based approaches to simulate phase diagrams and low-energy configurations in condensed matter.  
+2. Studying theoretical and empirical aspects of *why* and *how* LLMs reason — focusing on RL to build intuition in models.  
+3. Preference tuning & alignment to reduce hallucinations.
+
+---
+
+## 🤝 Open to collaborations & roles
+I’m extremely happy to work on research projects and open to exploring new domains in AI — especially those that require substantial mathematical thinking. If you have a project, internship, or role where I can contribute (or learn), let’s talk.
+
+---
+
+## 📫 Contact
+- **Email:** [pratyushjha254@gmail.com](mailto:pratyushjha254@gmail.com)  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/pratyush-jha-a93417213/)
