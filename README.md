@@ -13,16 +13,16 @@ Working on the **intersection of AI and Physics** is especially exciting to me �
 
 ---
 
-## 🌐 Research highlights
-- **AI Research Engineer · Ola Krutrim (2024–Present)**  
-  Improving LLM reasoning and reducing hallucinations using preference-based optimization and alignment techniques. Building scalable AI systems, deployment pipelines, and GPU-accelerated inference stacks.
-
-- **B.Tech Thesis · IIT Roorkee (2023–24)**  
-  Investigated deep-learning approaches for phase diagrams in condensed matter physics; compared fine-tuning vs. transfer learning for improved generalization and interpretability.
-
-- **MITACS Globalink Intern · McGill University (Summer 2023)**  
-  Modeled **CR-39 neutron detectors** using TOPAS Monte Carlo simulations; studied detector response to high-energy and thermal neutrons.  
-  🔗 [Lab profile](https://kildealab.com/author/pratyush-jha/)
+## 🌐 Research Highlights 
+- **AI Research Engineer @ Ola Krutrim (2024–Present):**
+  Worked on improving LLM reasoning and reducing hallucinations using preference optimization techniques, while also building scalable AI systems and services—from model deployment pipelines to real‑time analytics and developer SDKs.
+  
+- **B.Tech Thesis (2023–24):**
+  Explored deep learning-based approaches to simulate phase diagrams in condensed matter physics. Compared fine-tuning and transfer learning strategies to study the models' generalization abilities.
+  
+- **MITACS Globalink Intern @ McGill University (Summer 2023):**
+  Modeled CR‑39 neutron detectors with TOPAS-based Monte Carlo simulations to study detector response to high-energy and thermal neutrons.
+  🔗 [Lab Profile](https://kildealab.com/author/pratyush-jha/)
 
 ---
 
