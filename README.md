@@ -2,7 +2,8 @@
 
 **AI Research Engineer @ Ola Krutrim · B.Tech (Engineering Physics), IIT Roorkee (2024)**
 
-Working on the **intersection of AI and Physics** is especially exciting to me — I enjoy using mathematical insight to design better models and to connect theoretical ideas with practical systems. I currently explore **diffusion models for condensed-matter physics simulations**, and I spend a lot of time reading and thinking about the **mathematical structures that inspire reasoning in LLMs**.
+I enjoy using mathematical insight to design better models and to connect theoretical ideas with practical systems. Working on the **intersection of AI and Physics** is especially exciting to me.
+I currently explore **diffusion models for condensed-matter physics simulations**, and I spend a lot of time reading and thinking about the **mathematical structures that inspire reasoning in LLMs**.
 
 ---
 
