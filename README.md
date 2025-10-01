@@ -41,13 +41,6 @@ Working on the **intersection of AI and Physics** is especially exciting to me �
 
 ---
 
-## 🔭 Current focus (short)
-1. Developing diffusion-based approaches to simulate phase diagrams and low-energy configurations in condensed matter.  
-2. Studying theoretical and empirical aspects of *why* and *how* LLMs reason — focusing on RL to build intuition in models.  
-3. Preference tuning & alignment to reduce hallucinations.
-
----
-
 ## 🤝 Open to collaborations & roles
 I’m extremely happy to work on research projects and open to exploring new domains in AI — especially those that require substantial mathematical thinking. If you have a project, internship, or role where I can contribute (or learn), let’s talk.
 
