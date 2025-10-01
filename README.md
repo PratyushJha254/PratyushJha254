@@ -7,10 +7,9 @@ Working on the **intersection of AI and Physics** is especially exciting to me �
 ---
 
 ## 🔎 Quick summary
-- **Role:** AI Research Engineer, Ola Krutrim (2024–Present)  
-- **Background:** B.Tech in Engineering Physics, IIT Roorkee (2024)  
-- **Core interests:** model interpretability, LLM reasoning, reinforcement learning for alignment and reasoning, and physics-inspired generative modeling  
-- **Current focus:** diffusion models for condensed-matter simulations; theoretical study of reasoning in LLMs; preference tuning and hallucination mitigation
+- **Current Role:** AI Research Engineer, Ola Krutrim (2024–Present)  
+- **Education:** B.Tech in Engineering Physics, IIT Roorkee (2024)  
+- **Interests:** model interpretability, LLM reasoning, reinforcement learning for alignment and reasoning, and physics-inspired generative modeling  
 
 ---
 
