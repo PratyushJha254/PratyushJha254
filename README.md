@@ -9,7 +9,7 @@ I enjoy using mathematical insight to design better models and to connect theore
 ## 🔎 Quick summary
 - **Current Role:** AI Research Engineer, Ola Krutrim (2024–Present)  
 - **Education:** B.Tech in Engineering Physics, IIT Roorkee (2024)  
-- **Interests:** model interpretability, LLM reasoning, reinforcement learning for alignment and reasoning, and physics-inspired generative modeling  
+- **Interests:** Model interpretability, LLM reasoning, reinforcement learning for alignment and reasoning, and physics-inspired generative modeling  
 
 ---
 
@@ -41,7 +41,7 @@ I enjoy using mathematical insight to design better models and to connect theore
 ---
 
 ## 🤝 Open to collaborations & roles
-I’m extremely happy to work on research projects and open to exploring new domains in AI — especially those that require substantial mathematical thinking. If you have a project, internship, or role where I can contribute (or learn), let’s talk.
+I’m extremely happy to work on research projects and open to exploring new domains in AI. If you have a project, internship, or role where I can contribute (or learn), let’s talk.
 
 ---
 
