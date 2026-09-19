@@ -15,7 +15,7 @@ I enjoy using mathematical insight to design better models and to connect theore
 ---
 
 ## 🌐 Research Highlights 
--**Research Associate @ IISc Bangalore**
+- **Research Associate @ IISc Bangalore:**
   I am interested in problems at the intersection of AI and Physics. I work on using statistical physics datasets in condensed matter physics and fluid turbulence to enhance our understanding of generative AI.
 - **AI Research Engineer @ Ola Krutrim (2024–2025):**
   Worked on improving LLM reasoning and reducing hallucinations using preference optimization techniques, while also building scalable AI systems and services—from model deployment pipelines to real‑time analytics and developer SDKs.
