@@ -1,20 +1,23 @@
 # Hi there 👋 I'm Pratyush Jha
 
-**AI Research Engineer @ Ola Krutrim · B.Tech (Engineering Physics), IIT Roorkee (2024)**
+** Research Associate @ IISc Bangalore · AI Research Engineer @ Ola Krutrim · B.Tech (Engineering Physics), IIT Roorkee (2024)**
 
 I enjoy using mathematical insight to design better models and to connect theoretical ideas with practical systems. Apart from this, working on the intersection of AI and Physics is especially exciting to me.
 
 ---
 
 ## 🔎 Quick summary
-- **Current Role:** AI Research Engineer, Ola Krutrim (2024–Present)  
+- **Current Role:** Research Associate, Indian Institute of Science (IISc) Bangalore
+- **Industry Experience:** AI Research Engineer, Ola Krutrim (2024–Present)  
 - **Education:** B.Tech in Engineering Physics, IIT Roorkee (2024)  
 - **Interests:** Model interpretability, LLM reasoning, reinforcement learning for alignment and reasoning, and physics-inspired generative modeling  
 
 ---
 
 ## 🌐 Research Highlights 
-- **AI Research Engineer @ Ola Krutrim (2024–Present):**
+-**Research Associate @ IISc Bangalore**
+  I am interested in problems at the intersection of AI and Physics. I work on using statistical physics datasets in condensed matter physics and fluid turbulence to enhance our understanding of generative AI.
+- **AI Research Engineer @ Ola Krutrim (2024–2025):**
   Worked on improving LLM reasoning and reducing hallucinations using preference optimization techniques, while also building scalable AI systems and services—from model deployment pipelines to real‑time analytics and developer SDKs.
   
 - **B.Tech Thesis (2023–24):**
