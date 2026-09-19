@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Pratyush Jha
 
-** Research Associate @ IISc Bangalore · AI Research Engineer @ Ola Krutrim · B.Tech (Engineering Physics), IIT Roorkee (2024)**
+**Research Associate @ IISc Bangalore · AI Research Engineer @ Ola Krutrim · B.Tech (Engineering Physics), IIT Roorkee (2024)**
 
 I enjoy using mathematical insight to design better models and to connect theoretical ideas with practical systems. Apart from this, working on the intersection of AI and Physics is especially exciting to me.
 
